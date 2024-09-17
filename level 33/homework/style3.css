@@ -1,0 +1,6 @@
+.d, .d tr, .d td{
+    border: 3px solid green;
+}
+.dd, .dd tr, .dd td{
+    border: 3px solid green;
+}

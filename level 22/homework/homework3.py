@@ -1,0 +1,10 @@
+list= ["nika" "sika" "kika" "luka"]
+list.append("sandro")
+list.remove("luka")
+list.append("zuka")
+list.remove("kika")
+list.append("avto")
+list.remove("nika")
+list.append("andria")
+list1.remove("sika")
+print(list1)
